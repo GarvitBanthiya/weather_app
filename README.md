@@ -56,5 +56,9 @@ The app includes media queries to ensure it works on different devices:
 ---
 
 ## **Screenshots**
+![Screenshot 2025-01-10 224525](https://github.com/user-attachments/assets/fa8e60a0-b20a-4f86-8f2a-78290003fbf8)
 
+![Screenshot 2025-01-10 224551](https://github.com/user-attachments/assets/4d12fae9-a551-44a1-ab8b-8eb975bc6158)
+
+![Screenshot 2025-01-10 224647](https://github.com/user-attachments/assets/4c8fc796-031b-4b57-9115-a285a3d12597)
 
